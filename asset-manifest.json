@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Restaurant-Foods/static/css/main.3b5d58d0.css",
+    "main.js": "/Restaurant-Foods/static/js/main.ea2f145a.js",
+    "index.html": "/Restaurant-Foods/index.html",
+    "main.3b5d58d0.css.map": "/Restaurant-Foods/static/css/main.3b5d58d0.css.map",
+    "main.ea2f145a.js.map": "/Restaurant-Foods/static/js/main.ea2f145a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b5d58d0.css",
+    "static/js/main.ea2f145a.js"
+  ]
+}
